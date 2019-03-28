@@ -3,19 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@emotion/core": "^10.0.9",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8",
-    "request": "^2.88.0",
-    "react-router-dom": "^4.3.1",
-    "query-string": "^6.4.0",
+    "@emotion/core": "^10.0.10",
+    "axios": "^0.18.0",
     "cookie-parser": "^1.4.4",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "express-livereload": "^0.0.24",
     "history": "^4.7.2",
-    "axios": "^0.18.0"
+    "query-string": "^6.4.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^5.0.1",
