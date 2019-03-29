@@ -1,0 +1,1 @@
+export const apiUrl = options => `http://www.omdbapi.com/?apikey=9ed72b56&${options}`;
